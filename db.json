@@ -11,14 +11,14 @@
 	"states": {
   "AF": [
     { "value": "BAL", "label": "Balkh" },
-    { "value": "BAM", "label": "Bamian" },
+    { "value": "BAM", "label": "Bamian" }
   ],
 
   "AL": [
     { "value": "BR", "label": "Berat" },
     { "value": "BU", "label": "Bulqize" },
     { "value": "DI", "label": "Diber" },
-    { "value": "KR", "label": "Kruje" },
+    { "value": "KR", "label": "Kruje" }
   ],
 
   "DZ": [
@@ -26,7 +26,7 @@
     { "value": "ADR", "label": "Adrar" },
     { "value": "ALG", "label": "Alger" },
     { "value": "ANN", "label": "Annaba" },
-    { "value": "ATE", "label": "Ain Temouchent" },
+    { "value": "ATE", "label": "Ain Temouchent" }
 
   ],
 
@@ -35,27 +35,27 @@
     { "value": "M", "label": "Manu'a" },
     { "value": "R", "label": "Rose Island" },
     { "value": "S", "label": "Swains Island" },
-    { "value": "W", "label": "Western" },
+    { "value": "W", "label": "Western" }
   ],
 
   "AD": [
     { "value": "ALV", "label": "Andorra la Vella" },
-    { "value": "CAN", "label": "Canillo" },
+    { "value": "CAN", "label": "Canillo" }
 
   "AO": [
     { "value": "BGO", "label": "Bengo" },
-    { "value": "BGU", "label": "Benguela" },
+    { "value": "BGU", "label": "Benguela" }
   ],
 
   "AI": [
     { "value": "ANG", "label": "Anguillita" },
     { "value": "ANG", "label": "Anguila" },
-    { "value": "DOG", "label": "Dog" },
+    { "value": "DOG", "label": "Dog" }
   ],
 
   "AQ": [
     { "value": "ASG", "label": "Saint George" },
-    { "value": "ASH", "label": "Saint Philip" },
+    { "value": "ASH", "label": "Saint Philip" }
   ],
 
   "AR": [
@@ -65,24 +65,24 @@
     { "value": "CH", "label": "Chaco" },
     { "value": "SD", "label": "Santiago del Estero" },
     { "value": "TF", "label": "Tierra del Fuego" },
-    { "value": "TU", "label": "Tucuman" },
+    { "value": "TU", "label": "Tucuman" }
   ],
 
   "AM": [
     { "value": "AGT", "label": "Aragatsotn" },
     { "value": "ARR", "label": "Ararat" },
-    { "value": "ARM", "label": "Armavir" },
+    { "value": "ARM", "label": "Armavir" }
   ],
 
   "AW": [
     { "value": "ARU", "label": "Aruba" },
     { "value": "DRU", "label": "Druif Beach" },
-    { "value": "MAN", "label": "Manchebo Beach" },
+    { "value": "MAN", "label": "Manchebo Beach" }
   ],
 
   "AU": [
     { "value": "ACT", "label": "Australian Capital Territory" },
-    { "value": "NSW", "label": "New South Wales" },
+    { "value": "NSW", "label": "New South Wales" }
   ]
 }
 }
