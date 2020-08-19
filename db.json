@@ -17610,74 +17610,7 @@
 			{
 				"value": "EA",
 				"label": "Eastern"
-			},
-			{
-				"value": "LP",
-				"label": "Luapula"
-			},
-			{
-				"value": "LK",
-				"label": "Lusaka"
-			},
-			{
-				"value": "NO",
-				"label": "Northern"
-			},
-			{
-				"value": "NW",
-				"label": "North-Western"
-			},
-			{
-				"value": "SO",
-				"label": "Southern"
-			},
-			{
-				"value": "WE",
-				"label": "Western"
-			},
-		],
-
-		"ZW": [{
-				"value": "BU",
-				"label": "Bulawayo"
-			},
-			{
-				"value": "HA",
-				"label": "Harare"
-			},
-			{
-				"value": "ML",
-				"label": "Manicaland"
-			},
-			{
-				"value": "MC",
-				"label": "Mashonaland Central"
-			},
-			{
-				"value": "ME",
-				"label": "Mashonaland East"
-			},
-			{
-				"value": "MW",
-				"label": "Mashonaland West"
-			},
-			{
-				"value": "MV",
-				"label": "Masvingo"
-			},
-			{
-				"value": "MN",
-				"label": "Matabeleland North"
-			},
-			{
-				"value": "MS",
-				"label": "Matabeleland South"
-			},
-			{
-				"value": "MD",
-				"label": "Midlands"
-			},
-		],
+			}]
 	}
 
 }
