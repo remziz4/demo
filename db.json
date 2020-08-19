@@ -41,6 +41,7 @@
   "AD": [
     { "value": "ALV", "label": "Andorra la Vella" },
     { "value": "CAN", "label": "Canillo" }
+  ],
 
   "AO": [
     { "value": "BGO", "label": "Bengo" },
