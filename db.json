@@ -12,91 +12,91 @@
   {
     "id": "AF",
       "states": [
-          { "value": "BAL", "label": "Balkh" },
-          { "value": "BAM", "label": "Bamian" }
+          { "id": "BAL", "value": "BAL", "label": "Balkh" },
+          { "id": "BAM", "value": "BAM", "label": "Bamian" }
   ]},
 
   {"id": "AL",
     "states":  [
-        { "value": "BR", "label": "Berat" },
-        { "value": "BU", "label": "Bulqize" },
-        { "value": "DI", "label": "Diber" },
-        { "value": "KR", "label": "Kruje" }
+        { "id": "BR", "value": "BR", "label": "Berat" },
+        { "id": "BU", "value": "BU", "label": "Bulqize" },
+        { "id": "DI", "value": "DI", "label": "Diber" },
+        { "id": "KR", "value": "KR", "label": "Kruje" }
   ]},
 
   {"id": "DZ",
     "states": [
-    { "value": "ADE", "label": "Ain Defla" },
-    { "value": "ADR", "label": "Adrar" },
-    { "value": "ALG", "label": "Alger" },
-    { "value": "ANN", "label": "Annaba" },
-    { "value": "ATE", "label": "Ain Temouchent" }
+    { "id": "ADE", "value": "ADE", "label": "Ain Defla" },
+    { "id": "ADR", "value": "ADR", "label": "Adrar" },
+    { "id": "ALG", "value": "ALG", "label": "Alger" },
+    { "id": "ANN", "value": "ANN", "label": "Annaba" },
+    { "id": "ATE", "value": "ATE", "label": "Ain Temouchent" }
 
   ]},
 
   {"id": "AS",
     "states": [
-    { "value": "E", "label": "Eastern" },
-    { "value": "M", "label": "Manu'a" },
-    { "value": "R", "label": "Rose Island" },
-    { "value": "S", "label": "Swains Island" },
-    { "value": "W", "label": "Western" }
+    { "id": "E", "value": "E", "label": "Eastern" },
+    { "id": "M", "value": "M", "label": "Manu'a" },
+    { "id": "R", "value": "R", "label": "Rose Island" },
+    { "id": "S", "value": "S", "label": "Swains Island" },
+    { "id": "W", "value": "W", "label": "Western" }
   ]},
 
   {"id": "AD",
     "states": [
-    { "value": "ALV", "label": "Andorra la Vella" },
-    { "value": "CAN", "label": "Canillo" }
+    { "id": "ALV", "value": "ALV", "label": "Andorra la Vella" },
+    { "id": "CAN", "value": "CAN", "label": "Canillo" }
   ]},
 
   {"id": "AO",
     "states": [
-    { "value": "BGO", "label": "Bengo" },
-    { "value": "BGU", "label": "Benguela" }
+    { "id": "BGO", "value": "BGO", "label": "Bengo" },
+    { "id": "BGU", "value": "BGU", "label": "Benguela" }
   ]},
 
   {"id": "AI",
     "states": [
-    { "value": "ANG", "label": "Anguillita" },
-    { "value": "ANG", "label": "Anguila" },
-    { "value": "DOG", "label": "Dog" }
+    { "id": "ANG", "value": "ANG", "label": "Anguillita" },
+    { "id": "ANG", "value": "ANG", "label": "Anguila" },
+    { "id": "DOG", "value": "DOG", "label": "Dog" }
   ]},
 
   {"id": "AQ",
     "statets": [
-    { "value": "ASG", "label": "Saint George" },
-    { "value": "ASH", "label": "Saint Philip" }
+    { "id": "ASG", "value": "ASG", "label": "Saint George" },
+    { "id": "ASH", "value": "ASH", "label": "Saint Philip" }
   ]},
 
   {"id": "AR",
     "states":[
-    { "value": "AN", "label": "Antartida e Islas del Atlantico" },
-    { "value": "BA", "label": "Buenos Aires" },
-    { "value": "CA", "label": "Catamarca" },
-    { "value": "CH", "label": "Chaco" },
-    { "value": "SD", "label": "Santiago del Estero" },
-    { "value": "TF", "label": "Tierra del Fuego" },
-    { "value": "TU", "label": "Tucuman" }
+    { "id": "AN", "value": "AN", "label": "Antartida e Islas del Atlantico" },
+    { "id": "BA", "value": "BA", "label": "Buenos Aires" },
+    { "id": "CA", "value": "CA", "label": "Catamarca" },
+    { "id": "CH", "value": "CH", "label": "Chaco" },
+    { "id": "SD", "value": "SD", "label": "Santiago del Estero" },
+    { "id": "TF", "value": "TF", "label": "Tierra del Fuego" },
+    { "id": "TU", "value": "TU", "label": "Tucuman" }
   ]},
 
   {"id": "AM",
     "states": [
-    { "value": "AGT", "label": "Aragatsotn" },
-    { "value": "ARR", "label": "Ararat" },
-    { "value": "ARM", "label": "Armavir" }
+    { "id": "AGT", "value": "AGT", "label": "Aragatsotn" },
+    { "id": "ARR", "value": "ARR", "label": "Ararat" },
+    { "id": "ARM", "value": "ARM", "label": "Armavir" }
   ]},
 
   {"id": "AW",
     "states": [
-    { "value": "ARU", "label": "Aruba" },
-    { "value": "DRU", "label": "Druif Beach" },
-    { "value": "MAN", "label": "Manchebo Beach" }
+    { "id": "ARU", "value": "ARU", "label": "Aruba" },
+    { "id": "DRU", "value": "DRU", "label": "Druif Beach" },
+    { "id": "MAN", "value": "MAN", "label": "Manchebo Beach" }
   ]},
 
   {"id": "AU",
     "states": [
-    { "value": "ACT", "label": "Australian Capital Territory" },
-    { "value": "NSW", "label": "New South Wales" }
+    { "id": "ACT", "value": "ACT", "label": "Australian Capital Territory" },
+    { "id": "NSW", "value": "NSW", "label": "New South Wales" }
   ]}
     ]
 }
