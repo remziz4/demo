@@ -8,58 +8,68 @@
 			"available": false
 		}
 	],
-	"states": {
-  "AF": [
-    { "value": "BAL", "label": "Balkh" },
-    { "value": "BAM", "label": "Bamian" }
-  ],
+	"states": [
+  {
+    "id": "AF",
+      "states": [
+          { "value": "BAL", "label": "Balkh" },
+          { "value": "BAM", "label": "Bamian" }
+  ]},
 
-  "AL": [
-    { "value": "BR", "label": "Berat" },
-    { "value": "BU", "label": "Bulqize" },
-    { "value": "DI", "label": "Diber" },
-    { "value": "KR", "label": "Kruje" }
-  ],
+  {"id": "AL",
+    "states":  [
+        { "value": "BR", "label": "Berat" },
+        { "value": "BU", "label": "Bulqize" },
+        { "value": "DI", "label": "Diber" },
+        { "value": "KR", "label": "Kruje" }
+  ]},
 
-  "DZ": [
+  {"id": "DZ",
+    "states": [
     { "value": "ADE", "label": "Ain Defla" },
     { "value": "ADR", "label": "Adrar" },
     { "value": "ALG", "label": "Alger" },
     { "value": "ANN", "label": "Annaba" },
     { "value": "ATE", "label": "Ain Temouchent" }
 
-  ],
+  ]},
 
-  "AS": [
+  {"id": "AS",
+    "states": [
     { "value": "E", "label": "Eastern" },
     { "value": "M", "label": "Manu'a" },
     { "value": "R", "label": "Rose Island" },
     { "value": "S", "label": "Swains Island" },
     { "value": "W", "label": "Western" }
-  ],
+  ]},
 
-  "AD": [
+  {"id": "AD",
+    "states": [
     { "value": "ALV", "label": "Andorra la Vella" },
     { "value": "CAN", "label": "Canillo" }
-  ],
+  ]},
 
-  "AO": [
+  {"id": "AO",
+    "states": [
     { "value": "BGO", "label": "Bengo" },
     { "value": "BGU", "label": "Benguela" }
-  ],
+  ]},
 
-  "AI": [
+  {"id": "AI",
+    "states": [
     { "value": "ANG", "label": "Anguillita" },
     { "value": "ANG", "label": "Anguila" },
     { "value": "DOG", "label": "Dog" }
-  ],
+  ]},
 
-  "AQ": [
+  {"id": "AQ",
+    "statets": [
     { "value": "ASG", "label": "Saint George" },
     { "value": "ASH", "label": "Saint Philip" }
-  ],
+  ]},
 
-  "AR": [
+  {"id": "AR",
+    "states":[
     { "value": "AN", "label": "Antartida e Islas del Atlantico" },
     { "value": "BA", "label": "Buenos Aires" },
     { "value": "CA", "label": "Catamarca" },
@@ -67,23 +77,26 @@
     { "value": "SD", "label": "Santiago del Estero" },
     { "value": "TF", "label": "Tierra del Fuego" },
     { "value": "TU", "label": "Tucuman" }
-  ],
+  ]},
 
-  "AM": [
+  {"id": "AM",
+    "states": [
     { "value": "AGT", "label": "Aragatsotn" },
     { "value": "ARR", "label": "Ararat" },
     { "value": "ARM", "label": "Armavir" }
-  ],
+  ]},
 
-  "AW": [
+  {"id": "AW",
+    "states": [
     { "value": "ARU", "label": "Aruba" },
     { "value": "DRU", "label": "Druif Beach" },
     { "value": "MAN", "label": "Manchebo Beach" }
-  ],
+  ]},
 
-  "AU": [
+  {"id": "AU",
+    "states": [
     { "value": "ACT", "label": "Australian Capital Territory" },
     { "value": "NSW", "label": "New South Wales" }
-  ]
-}
+  ]}
+    ]
 }
